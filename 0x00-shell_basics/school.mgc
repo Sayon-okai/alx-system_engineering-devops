@@ -1,2 +1,2 @@
 #!/bin/bash
-file -C [-m magicfiles]
+school.mgc /tmp/magic$ cp /bin/ls -la
