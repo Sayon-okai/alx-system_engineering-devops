@@ -1,2 +1,2 @@
 #!/bin/bash
-school.mgc /tmp/magic$ cp /bin/ls -la
+school.mgc
