@@ -1,2 +1,2 @@
 #!/bin/bash 
- printf "%.2f \n" 4.4444
+ printf "%.2f \n" 3.144
